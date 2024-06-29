@@ -1,6 +1,8 @@
 # stock-price-brownian-process
 This repository explores using Brownian motion to predict stock prices, leveraging the stochastic process' properties to develop accurate forecasting models.
 
+This project takes live stock data of netflix for prediction from yahoo finance.Change the link of data to predict for other companies in the model.py
+
 The key objectives of this repository are:
 
 	->Investigating the suitability of Brownian motion for modeling stock price dynamics
@@ -17,3 +19,4 @@ The repository includes the following components:
  				Scripts for gathering and cleaning stock market data for use in the prediction models
 	->Visualization and analysis tools:
  				Interactive dashboards and plots for exploring stock price trends and model performance
+
